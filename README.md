@@ -5,6 +5,7 @@ This is a backend development project for an online store's inventory system. Th
 -------Required Features---------
 
 ----------Core Resources---------
+
     1. POST /api/products – Create a new product.
     2. GET /api/products – Return a list of products. Must support:
           Pagination: page and limit (e.g., ?page=1&limit=10).
